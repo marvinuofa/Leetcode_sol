@@ -2,5 +2,6 @@
 This repository contain solutions to some leetcode Questions.
 
 ## Questions 
-- **2918**.  Minimum Equal Sum of Two Arrays After Replacing Zeros.      **#python**
-- **1550**. Three Consecutive Odds.  **#Python** **#C** 
+- **2918.** Minimum Equal Sum of Two Arrays After Replacing Zeros.      **#python**
+- **1550.** Three Consecutive Odds.  **#Python** **#C** 
+- **2094.** Finding 3-Digit Even Numbers **#python**
