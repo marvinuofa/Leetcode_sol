@@ -24,6 +24,11 @@ This repository contains solutions to various coding problems from LeetCode and 
    - **Languages**: Python
    - **Description**: Given a list of numbers, this problem asks to find all 3-digit even numbers.
    - **Folder**: `algorithms/`
+     
+### 4. **Length of Last Word** (LeetCode 58)  
+- **Languages**: Python  
+- **Description**: Returns the length of the last word in a given string using a one-line solution.  
+- **Folder**: `algorithms/`
 
 ---
 
