@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/marvinuwalaka/Desktop/Leetcode_sol/1550",
-      "program": "/Users/marvinuwalaka/Desktop/Leetcode_sol/1550/build/Debug/outDebug"
+      "cwd": "/cshome/mcu/personal/Leetcode_sol/Algorithms/1550",
+      "program": "/cshome/mcu/personal/Leetcode_sol/Algorithms/1550/build/Debug/outDebug"
     }
   ]
 }
